@@ -60,16 +60,3 @@ El proyecto se abrirá automáticamente en tu navegador en `http://localhost:300
 
 ---
 
-## 🌐 Despliegue en GitHub Pages
-
-El proyecto está desplegado en GitHub Pages. Para actualizar el despliegue:
-1. Genera la carpeta `build`:
-   ```bash
-   npm run build
-   ```
-2. Sube la carpeta `build` al repositorio remoto.
-
----
-
-
-✨ ¡Gracias por visitar este proyecto! Espero que lo disfrutes tanto como yo disfruté creándolo. ✨
